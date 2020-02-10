@@ -1,0 +1,9 @@
+C:\Users\e20190011344\source\repos\App1ConsNet\App1ConsNet\bin\Debug\App1ConsNet.exe.config
+C:\Users\e20190011344\source\repos\App1ConsNet\App1ConsNet\bin\Debug\App1ConsNet.exe
+C:\Users\e20190011344\source\repos\App1ConsNet\App1ConsNet\bin\Debug\App1ConsNet.pdb
+C:\Users\e20190011344\source\repos\App1ConsNet\App1ConsNet\obj\Debug\App1ConsNet.csprojAssemblyReference.cache
+C:\Users\e20190011344\source\repos\App1ConsNet\App1ConsNet\obj\Debug\App1ConsNet.exe
+C:\Users\e20190011344\source\repos\App1ConsNet\App1ConsNet\obj\Debug\App1ConsNet.pdb
+C:\Users\e20190011344\source\repos\App1ConsNet\App1ConsNet\bin\Debug\Bibliotheque1.dll
+C:\Users\e20190011344\source\repos\App1ConsNet\App1ConsNet\bin\Debug\Bibliotheque1.pdb
+C:\Users\e20190011344\source\repos\App1ConsNet\App1ConsNet\obj\Debug\App1ConsNet.csproj.CopyComplete

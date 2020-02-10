@@ -1,0 +1,8 @@
+C:\Users\e20190011344\source\repos\App1ConsNet\Bibliotheque1\bin\Debug\netstandard2.0\Bibliotheque1.deps.json
+C:\Users\e20190011344\source\repos\App1ConsNet\Bibliotheque1\bin\Debug\netstandard2.0\Bibliotheque1.dll
+C:\Users\e20190011344\source\repos\App1ConsNet\Bibliotheque1\bin\Debug\netstandard2.0\Bibliotheque1.pdb
+C:\Users\e20190011344\source\repos\App1ConsNet\Bibliotheque1\obj\Debug\netstandard2.0\Bibliotheque1.csprojAssemblyReference.cache
+C:\Users\e20190011344\source\repos\App1ConsNet\Bibliotheque1\obj\Debug\netstandard2.0\Bibliotheque1.AssemblyInfoInputs.cache
+C:\Users\e20190011344\source\repos\App1ConsNet\Bibliotheque1\obj\Debug\netstandard2.0\Bibliotheque1.AssemblyInfo.cs
+C:\Users\e20190011344\source\repos\App1ConsNet\Bibliotheque1\obj\Debug\netstandard2.0\Bibliotheque1.dll
+C:\Users\e20190011344\source\repos\App1ConsNet\Bibliotheque1\obj\Debug\netstandard2.0\Bibliotheque1.pdb
